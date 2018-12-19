@@ -1,0 +1,39 @@
+body {
+  background-image: url("nightsky.jpg");
+  min-height: 100vh;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-family: Verdana, Times New Roman, sans-serif;
+  margin-top: 13rem;
+  font-size: 5rem;
+}
+
+h2 {
+  font-family: Verdana, Times New Roman, sans-serif;
+  font-style: italic;
+  font-size: 1.4rem;
+}
+
+#input {
+  font-family: Verdana, Times New Roman, sans-serif;
+}
+
+#deleteButton{
+  float: right;
+}
+
+ul {
+  list-style: none;
+  margin-top: 1rem;
+  border-top: 2px solid white;
+}
+
+li {
+  border-bottom: 1px solid white;
+  padding-top: 0.3rem;
+  padding-bottom: 1rem;
+  font-size: 1rem;
+}
